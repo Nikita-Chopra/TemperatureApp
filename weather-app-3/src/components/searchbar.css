@@ -1,0 +1,36 @@
+.main{
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+}
+
+.search{
+    height: 30vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: end;
+}
+
+
+
+.text1{
+    outline: none;
+    border: none;
+    height: 4vh;
+    width: 30vh;
+    font-size: 12px;
+}
+
+.btn{
+    height: 4.5vh;
+    width: 15vh;
+    font-size: 12px;
+    margin-left: 10px;
+    border: 1px solid darkblue;
+    background-color: lightblue;
+    color: blue;
+    border-radius: 5px;
+    cursor: pointer;
+}
